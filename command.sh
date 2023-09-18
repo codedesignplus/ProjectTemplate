@@ -1,0 +1,1 @@
+ sh SETUP_TEMPLATE.sh --name=codedesignplus --mail=codedesignplus@outlook.com --omit-commit
